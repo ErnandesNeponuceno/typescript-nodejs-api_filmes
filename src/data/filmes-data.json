@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Rei Leão",
+    "diretor": "Jon Favreau",
+    "anoLancamento": 2019,
+    "genero": "Animação, Aventura, Drama",
+    "duracao": 118,
+    "classificacaoEtaria": "Livre",
+    "sinopse": "O jovem leão Simba foge de casa após a morte de seu pai, Mufasa, mas retorna para reivindicar seu lugar como rei.",
+    "elenco": [
+      "Donald Glover",
+      "Beyoncé",
+      "James Earl Jones"
+    ],
+    "orçamento": 260000000,
+    "bilheteira": 1657000000,
+    "estudio": "Disney"
+  },
+  {
+    "id": 2,
+    "titulo": "Batman: O Cavaleiro das Trevas",
+    "diretor": "Christopher Nolan",
+    "anoLancamento": 2008,
+    "genero": "Ação, Crime, Drama",
+    "duracao": 152,
+    "classificacaoEtaria": "11 anos",
+    "sinopse": "Batman, com a ajuda de seu aliado, o tenente James Gordon, e o promotor público, Harvey Dent, tenta erradicar o crime organizado de Gotham.",
+    "elenco": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "orçamento": 185000000,
+    "bilheteira": 2404558444,
+    "estudio": "Warner Bros."
+  },
+  {
+    "id": 3,
+    "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+    "diretor": "Peter Jackson",
+    "anoLancamento": 2003,
+    "genero": "Aventura, Drama, Fantasia",
+    "duracao": 201,
+    "classificacaoEtaria": "12 anos",
+    "sinopse": "Frodo e Sam se aproximam da Montanha da Perdição, enquanto Aragorn, Legolas e Gimli tentam unir os reinos livres da Terra-média para enfrentar Sauron.",
+    "elenco": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "orçamento": 94000000,
+    "bilheteira": 1110920000,
+    "estudio": "New Line Cinema"
+  },
+  {
+    "id": 5,
+    "titulo": "Matrix",
+    "diretor": "Lana Wachowski, Lilly Wachowski",
+    "anoLancamento": 1999,
+    "genero": "Ação, Ficção científica",
+    "duracao": 136,
+    "classificacaoEtaria": "16 anos",
+    "sinopse": "Neo, um hacker, é recrutado por um grupo de rebeldes para lutar contra as máquinas que controlam a humanidade em uma realidade simulada.",
+    "elenco": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "orçamento": 63000000,
+    "bilheteira": 463517383,
+    "estudio": "Warner Bros."
+  },
+  {
+    "id": 6,
+    "titulo": "Jurassic Park",
+    "diretor": "Steven Spielberg",
+    "anoLancamento": 1993,
+    "genero": "Aventura, Ficção científica, Suspense",
+    "duracao": 127,
+    "classificacaoEtaria": "Livre",
+    "sinopse": "Cientistas criam um parque temático habitado por dinossauros clonados, mas a segurança falha e o parque vira um caos.",
+    "elenco": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "orçamento": 63000000,
+    "bilheteira": 1070000000,
+    "estudio": "Universal Pictures"
+  },
+  {
+    "id": 7,
+    "titulo": "Titanic",
+    "diretor": "James Cameron",
+    "anoLancamento": 1997,
+    "genero": "Drama, Romance",
+    "duracao": 195,
+    "classificacaoEtaria": "12 anos",
+    "sinopse": "A história de amor entre Jack e Rose, dois passageiros do navio Titanic, que se apaixonam enquanto o navio afunda.",
+    "elenco": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "orçamento": 200000000,
+    "bilheteira": 2187463944,
+    "estudio": "Paramount Pictures"
+  },
+  {
+    "id": 8,
+    "titulo": "A Origem",
+    "diretor": "Christopher Nolan",
+    "anoLancamento": 2010,
+    "genero": "Ação, Aventura, Ficção científica",
+    "duracao": 148,
+    "classificacaoEtaria": "12 anos",
+    "sinopse": "Um ladrão especializado em extrair segredos através dos sonhos é dado a chance de apagar sua ficha criminosa, se ele conseguir implantar uma ideia na mente de uma pessoa.",
+    "elenco": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page"
+    ],
+    "orçamento": 160000000,
+    "bilheteira": 836836967,
+    "estudio": "Warner Bros."
+  },
+  {
+    "id": 9,
+    "titulo": "Star Wars: O Império Contra-Ataca",
+    "diretor": "Irvin Kershner",
+    "anoLancamento": 1980,
+    "genero": "Ação, Aventura, Ficção científica",
+    "duracao": 124,
+    "classificacaoEtaria": "Livre",
+    "sinopse": "A rebelião contra o Império Galáctico entra em um ponto de virada, enquanto Luke Skywalker enfrenta seu destino e a batalha se intensifica.",
+    "elenco": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "orçamento": 18000000,
+    "bilheteira": 538375067,
+    "estudio": "Lucasfilm"
+  },
+  {
+    "id": 10,
+    "titulo": "Spider-Man: Sem Volta Para Casa",
+    "diretor": "Jon Watts",
+    "anoLancamento": 2021,
+    "genero": "Ação, Aventura, Ficção científica",
+    "duracao": 148,
+    "classificacaoEtaria": "12 anos",
+    "sinopse": "Peter Parker pede ajuda ao Doutor Estranho para apagar a memória de todos que sabem que ele é o Homem-Aranha, mas algo dá errado.",
+    "elenco": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch"
+    ],
+    "orçamento": 200000000,
+    "bilheteira": 1850000000,
+    "estudio": "Marvel Studios"
+  },
+  {
+    "titulo": "O Senhor dos Anéis: O Retorno do Rei 4",
+    "diretor": "Peter Jackson",
+    "anoLancamento": 2003,
+    "genero": "Aventura, Drama, Fantasia",
+    "duracao": 201,
+    "classificacaoEtaria": "12 anos",
+    "sinopse": "Frodo e Sam se aproximam da Montanha da Perdição, enquanto Aragorn, Legolas e Gimli tentam unir os reinos livres da Terra-média para enfrentar Sauron.",
+    "elenco": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "orçamento": 94000000,
+    "bilheteira": 1110920000,
+    "estudio": "New Line Cinema",
+    "id": 11
+  }
+]
